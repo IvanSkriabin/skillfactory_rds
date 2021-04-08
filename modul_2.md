@@ -7,7 +7,7 @@
 
 Ниже вы найдете пошаговую инструкцию по выполнению проекта.
 
-[Наш датасет находится здесь](https://lms.skillfactory.ru/assets/courseware/v1/425d6864db937e4ebabc972e581769ab/asset-v1:Skillfactory+DST-PRO+15APR2020+type@asset+block/stud_math.csv)
+[Датасет находится здесь](https://lms.skillfactory.ru/assets/courseware/v1/425d6864db937e4ebabc972e581769ab/asset-v1:Skillfactory+DST-PRO+15APR2020+type@asset+block/stud_math.csv)
 
 **Этапы выполнения проекта:**
 1. Провести первичную обработку данных. Так как данных много, стоит написать функции, которые можно применять к столбцам определённого типа.
